@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1:3306
--- Tiempo de generación: 27-08-2022 a las 21:00:59
+-- Tiempo de generación: 27-08-2022 a las 22:37:56
 -- Versión del servidor: 8.0.27
 -- Versión de PHP: 7.4.26
 
@@ -126,7 +126,7 @@ CREATE TABLE IF NOT EXISTS `persona` (
 --
 
 INSERT INTO `persona` (`id_persona`, `about`, `apellido`, `email`, `facebook`, `github`, `instagram`, `linkedin`, `nacimiento`, `nacionalidad`, `nombre`, `residencia`, `telefono`, `urlimgfondo`, `urlimgpersonal`) VALUES
-(1, 'nose', 'Isola', 'marceloisola@gmail.com', 'https://www.facebook.com/marcelo.isola/', 'https://github.com/misola5', 'https://www.instagram.com/isolamarcelo/', 'https://www.linkedin.com/in/marcelo-isola-019702179/', '14 de octubre de 1982', 'Argentino/Italiano', 'Marcelo', 'Argentina', '+5491138896935', 'nose', 'nose');
+(1, 'Verinario con un perfil IT, con aptitud para la gestión y manejo de la informacion.', 'Isola', 'marceloisola@gmail.com', 'https://www.facebook.com/marcelo.isola/', 'https://github.com/misola5', 'https://www.instagram.com/isolamarcelo/', 'https://www.linkedin.com/in/marcelo-isola-019702179/', '14 de octubre de 1982', 'Argentino/Italiano', 'Marcelo', 'Argentina', '+5491138896935', './assets/cv.pdf', './assets/yo.jpg');
 
 -- --------------------------------------------------------
 
